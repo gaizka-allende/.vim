@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/gaizka.allende'
+let g:netrw_dirhist_2='/Users/gaizka.allende/Dev'
+let g:netrw_dirhist_3='/Users/gaizka.allende/Dev/thedeal-web-dms'
+let g:netrw_dirhist_4='/Users/gaizka.allende/Dev/thedeal-web-dms/client'
+let g:netrw_dirhist_5='/Users/gaizka.allende/Dev/thedeal-web-dms/client/src'
+let g:netrw_dirhist_6='/Users/gaizka.allende/Dev/thedeal-web-dms/client/src/screens'
+let g:netrw_dirhist_7='/Users/gaizka.allende/Dev/thedeal-web-dms/client/src/screens/dashboard'

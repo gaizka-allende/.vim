@@ -34,6 +34,9 @@ map ee :e<space>.<cr>
 " (useful for handling the permission-denied error)
 "command W w !sudo tee % > /dev/null
 
+" map dd to the black hole register
+nnoremap d "_d
+vnoremap d "_d
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface
