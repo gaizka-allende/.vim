@@ -28,7 +28,7 @@ nmap <leader>w :w!<cr>
 nmap ww :w!<cr>
 
 :imap jj <Esc>
-map ee :e<space>.<cr>
+nmap ee :e<space>.<cr>
 
 " :W sudo saves the file 
 " (useful for handling the permission-denied error)
@@ -43,6 +43,9 @@ vnoremap d "_d
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Set 7 lines to the cursor - when moving vertically using j/k
 set so=7
+
+" Set relative numbers
+set relativenumber
 
 " Avoid garbled characters in Chinese language windows OS
 let $LANG='en' 
