@@ -25,7 +25,7 @@ let g:mapleader = ","
 
 " Fast saving
 nmap <leader>w :w!<cr>
-nmap ww :w!<cr>
+nmap ss :w!<cr>
 
 :imap jj <Esc>
 nmap ee :e<space>.<cr>
